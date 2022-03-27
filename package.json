@@ -13,6 +13,11 @@
     "react"
   ],
   "sideEffects": false,
+  "files": [
+    "dist/**",
+    "LICENSE",
+    "README.md"
+  ],
   "main": "dist/hmans-react-toolbox.cjs.js",
   "module": "dist/hmans-react-toolbox.esm.js",
   "types": "dist/hmans-react-toolbox.cjs.d.ts",
