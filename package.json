@@ -1,7 +1,7 @@
 {
   "name": "@hmans/react-toolbox",
   "private": false,
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A collection of tiny React tools.",
   "author": {
     "name": "Hendrik Mans",
